@@ -1,7 +1,7 @@
 
 
 # Hi there, I'm Anthony 🤝
-I'm a network/RF Engineer,Cisco certified, that is interested in learning more about Networking.
+I'm a network/RF Engineer, Cisco certified, that is interested in learning more about Networking.
 For fun, I spend a lot of time creating Network topologies, learning new stuff.
 If you'd like to chat, you can find me on [LinkedIn](https://www.linkedin.com/in/anthony-ngure-munia750078).
 
