@@ -1,7 +1,8 @@
 
 
 # Hi there,
-I'm a network/RF Engineer, Cisco certified, interested in learning more about Networking,telecommunications and tech.
-For fun, I spend a lot of time creating Network topologies, learning new stuff.
+
+I’m a **Network & RF Engineer**, Cisco certified, with a strong interest in networking, telecommunications, and infrastructure engineering.
+I love building and testing **real-world network topologies**, exploring routing, security, automation, and learning new technologies across the networking and tech space.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/anthony-ngure-munia750078).
